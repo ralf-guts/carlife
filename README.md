@@ -11,7 +11,7 @@
 build directory: 'CarLife-Vehicle-Lib/protobuf-2.5.0/src/.libs'
 
 - You can remove the program binaries and object files from the source code directory by typing `make clean'.
-- To also remove the files that `configure' created (so you can compile the package for a different kind of computer), type `make distclean'.
+- To also remove the files that 'configure' created (so you can compile the package for a different kind of computer), type 'make distclean'.
 
 refer to 'CarLife-Vehicle-Lib/protobuf-2.5.0/README.txt'
 
